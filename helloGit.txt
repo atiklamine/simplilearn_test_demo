@@ -31,4 +31,5 @@ git reset: Allows you to unstage changes, reset to a specific commit, or unmodif
 
 git stash: Temporarily saves your changes and allows you to switch to another branch without committing incomplete work.
 
-These are some of the most commonly used Git commands, and they form the foundation of version control and collaboration with Git
+These are some of the most commonly used Git commands, and they form the foundation of version control and collaboration with Git.
+there is more commands but these are the most importents ones.
