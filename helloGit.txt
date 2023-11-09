@@ -1,3 +1,5 @@
+# if you creat of modifie a file, you proceid to this three steps.
 git add [file name]   "to add a new file created to the project"
+git status "to know if there is a change needs to commit"
 git commit -m "message to display"    "to commite the change to the local repo"
 git push "to commit the change to the remote repo"
